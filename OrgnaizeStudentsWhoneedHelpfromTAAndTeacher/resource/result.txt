@@ -1,0 +1,76 @@
+TA will sleep until a student shows up ...
+			student 3 will be programming for 3 seconds
+			student 1 will be programming for 4 seconds
+			student 2 will be programming for 2 seconds
+		student <2> takes a seat to get help, total 1 student(s) waiting for help 
+TA is helping student <<2>> for 1 seconds
+TA will sleep until a student shows up ...
+			student <<<2>>> is GETTING HELP
+			student 2 will be programming for 4 seconds
+		student <3> takes a seat to get help, total 1 student(s) waiting for help 
+TA is helping student <<3>> for 1 seconds
+TA will sleep until a student shows up ...
+			student <<<3>>> is GETTING HELP
+			student 3 will be programming for 2 seconds
+		student <1> takes a seat to get help, total 1 student(s) waiting for help 
+TA is helping student <<1>> for 3 seconds
+TA will sleep until a student shows up ...
+			student <<<1>>> is GETTING HELP
+			student 1 will be programming for 5 seconds
+		student <3> takes a seat to get help, total 1 student(s) waiting for help 
+		student <2> takes a seat to get help, total 2 student(s) waiting for help 
+TA is helping student <<3>> for 2 seconds
+TA is helping student <<2>> for 3 seconds
+			student <<<3>>> is GETTING HELP
+			student 3 will be programming for 3 seconds
+TA will sleep until a student shows up ...
+TA will sleep until a student shows up ...
+		student <3> takes a seat to get help, total 1 student(s) waiting for help 
+			student <<<2>>> is GETTING HELP
+		student <1> takes a seat to get help, total 2 student(s) waiting for help 
+			student 2 will be programming for 1 seconds
+TA is helping student <<3>> for 5 seconds
+TA is helping student <<1>> for 4 seconds
+			student <<<3>>> is GETTING HELP
+			student 3 will be programming for 2 seconds
+TA will sleep until a student shows up ...
+TA will sleep until a student shows up ...
+			student <<<1>>> is GETTING HELP
+			student 1 will be programming for 1 seconds
+		student <2> takes a seat to get help, total 1 student(s) waiting for help 
+		student <3> takes a seat to get help, total 2 student(s) waiting for help 
+TA is helping student <<2>> for 2 seconds
+TA is helping student <<3>> for 3 seconds
+			student <<<2>>> is GETTING HELP
+			student 2 will be programming for 2 seconds
+TA will sleep until a student shows up ...
+TA will sleep until a student shows up ...
+		student <1> takes a seat to get help, total 1 student(s) waiting for help 
+			student <<<1>>> is GETTING HELP
+			student 1 will be programming for 2 seconds
+		student <2> takes a seat to get help, total 2 student(s) waiting for help 
+TA is helping student <<1>> for 4 seconds
+TA is helping student <<2>> for 3 seconds
+			student <<<3>>> is GETTING HELP
+			student 3 will be programming for 5 seconds
+TA will sleep until a student shows up ...
+TA will sleep until a student shows up ...
+			student <<<2>>> is GETTING HELP
+		student <1> takes a seat to get help, total 1 student(s) waiting for help 
+			student 2 will be programming for 3 seconds
+TA is helping student <<1>> for 1 seconds
+TA will sleep until a student shows up ...
+			student <<<1>>> is GETTING HELP
+			student 1 will be programming for 3 seconds
+		student <3> takes a seat to get help, total 1 student(s) waiting for help 
+TA is helping student <<3>> for 4 seconds
+TA will sleep until a student shows up ...
+			student <<<3>>> is GETTING HELP
+		student <2> takes a seat to get help, total 1 student(s) waiting for help 
+		student <1> takes a seat to get help, total 2 student(s) waiting for help 
+TA is helping student <<2>> for 3 seconds
+TA is helping student <<1>> for 1 seconds
+			student <<<2>>> is GETTING HELP
+TA will sleep until a student shows up ...
+TA will sleep until a student shows up ...
+			student <<<1>>> is GETTING HELP
